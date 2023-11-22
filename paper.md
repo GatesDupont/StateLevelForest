@@ -1,5 +1,5 @@
 ---
-title: 'StateLevelForest: An R package containing a century of U.S. forest dynamics'
+title: 'StateLevelForest, An R package containing a century of U.S. forest dynamics'
 tags:
 - forest
 - public data
