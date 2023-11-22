@@ -1,2 +1,4 @@
-              - name: Open Journals PDF Generator
-                uses: openjournals/openjournals-draft-action@v.1.0
+- name: Open Journals PDF Generator
+  uses: openjournals/openjournals-draft-action@v.1.0
+  with:
+  commit_message: Saved new PDF of paper
