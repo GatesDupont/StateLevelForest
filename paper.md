@@ -18,10 +18,10 @@ authors:
   affiliation: 1, 2, 3
 bibliography: paper.bib
 affiliations:
-- name: Department of Ecology and Evolutionary Biology, Princeton University, Princeton,
-    NJ, 08544, USA
+- name: "Department of Ecology and Evolutionary Biology, Princeton University, Princeton,
+    NJ, 08544, USA""
   index: 1
-- name: Santa Fe Institute, Santa Fe, NM, 87501, USA
+- name: "Santa Fe Institute, Santa Fe, NM, 87501, USA"
   index: 2
 - name: "Smithsonian Tropical Research Institute, Panama City, 0843-03092, Panama"
   index: 3
@@ -46,10 +46,10 @@ The package's primary aim is to offer a user-friendly interface to access and wo
 
 # Figures
 
-![State-wise Forest Cover Trends in the United States from 1907 to 2017. Each panel represents a U.S. state and displays the forest area in thousands of acres over the observed period. The red line indicates the 1630 reference level, serving as a baseline for comparison. The data visualized encapsulates the significant fluctuations in forest coverage, highlighting instances of deforestation and reforestation. These visual trends provide a macroscopic view of the historical and contemporary states of forest ecosystems, which are critical for understanding the environmental impact and guiding conservation efforts.\label{fig:states}](figure.png)
+![State-level Forest Cover Trends in the United States from 1907 to 2017. Each panel represents a U.S. state and displays the forest area in thousands of acres over the observed period. The red line indicates the 1630 reference level, serving as a baseline for comparison. The data visualized encapsulates the significant fluctuations in forest coverage, highlighting instances of deforestation and reforestation. These visual trends provide a macroscopic view of the historical and contemporary states of forest ecosystems, which are critical for understanding the environmental impact and guiding conservation efforts.\label{fig:states}](figure.png)
 
 # Acknowledgements
 
-We acknowledge all those involved in collecting and curating these data at the U.S. Census Bureau and U.S. Forest Service (USFS) and beyond over the last 100+ years. This was surely an immense effort. We thank USFS, in particular, for making the dataset publicly available in their above-mentioned report. We thank CRAN and its team members for hosting the R package we describe here, and we thank the reviewers of this manuscript. 
+We acknowledge all those involved in collecting and curating these data at the U.S. Census Bureau and U.S. Forest Service (USFS) and beyond over the last 100+ years. This was surely an immense effort. We thank USFS, in particular, for making the dataset publicly available in their above-mentioned report. We thank CRAN and its team members for hosting the R package we describe here, and we thank the reviewers of their helpful feedback.
 
 # References
