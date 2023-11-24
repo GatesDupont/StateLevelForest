@@ -43,6 +43,20 @@ The package's primary aim is to offer a user-friendly interface to access and wo
 
 The package is available on [CRAN](https://cran.r-project.org/web/packages/StateLevelForest/index.html) and also available at the GitHub repository: [https://github.com/GatesDupont/StateLevelForest](https://github.com/GatesDupont/StateLevelForest)
 
+Upon opening R, a user can access the data with just a few lines of code:
+```{r}
+
+# Install the packages
+# install.packages("StateLevelForest") # un-comment you are installing for the first time
+
+# Load the package
+library(StateLevelForest)
+
+# Load the data frame into your Workspace
+data(StateLevelForest)
+
+```
+
 
 # Figures
 
