@@ -18,8 +18,7 @@ authors:
   affiliation: 1, 2, 3
 bibliography: paper.bib
 affiliations:
-- name: "Department of Ecology and Evolutionary Biology, Princeton University, Princeton,
-    NJ, 08544, USA""
+- name: "Department of Ecology and Evolutionary Biology, Princeton University, Princeton, NJ, 08544, USA"
   index: 1
 - name: "Santa Fe Institute, Santa Fe, NM, 87501, USA"
   index: 2
