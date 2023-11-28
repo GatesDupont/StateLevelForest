@@ -14,6 +14,14 @@
 #' @references
 #' Data transcribed from Oswalt et al. (2019). Estimates for 1630, 1907, and 1938 include forest area for regions that would become the 50 States within the current United States. Estimates for 2007 are adjusted for forest definition change to a minimum of 10% cover and removal of chaparral as a forest type. Data for 1909-1997 adjusted for removal of chaparral type and addition of historic west Texas and west Oklahoma unproductive forest. Data for 1630 were also from Kellogg (1909) as an estimate of the original forest area. These data are provided for general reference purposes only to convey the relative extent of the forest estate, in what is now the United States, at the time of European settlement. Note: Data may not add to totals because of rounding.
 #'
+#' @section How to Cite:
+#' Please cite as follows:
+#' Gates Dupont (2023). StateLevelForest: Historical State-Level Forest Cover Data in the United States. R package version x.x.x.
+#' Available at https://CRAN.R-project.org/package=StateLevelForest
+#'
+#' For BibTeX entry, use:
+#' @code{citation("StateLevelForest")}
+#'
 #' @examples
 #' data(StateLevelForest)
 #' head(StateLevelForest)
