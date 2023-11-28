@@ -24,6 +24,16 @@ State-Level Forest Area Data in the United States, collected by the U.S. Census 
 \details{
 This dataset contains information on forest area (thousands of acres) in the United States by state, covering over a century. The data is presented for the years 2017, 2012, 2007, 1997, 1987, 1977, 1963, 1953, 1938, 1920, 1907, and 1630.
 }
+\section{How to Cite}{
+
+Please cite as follows:
+Gates Dupont (2023). StateLevelForest: Historical State-Level Forest Cover Data in the United States. R package version x.x.x.
+Available at https://CRAN.R-project.org/package=StateLevelForest
+
+For BibTeX entry, use:
+\code{citation("StateLevelForest")}
+}
+
 \examples{
 data(StateLevelForest)
 head(StateLevelForest)

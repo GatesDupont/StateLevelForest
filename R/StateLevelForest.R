@@ -20,7 +20,7 @@
 #' Available at https://CRAN.R-project.org/package=StateLevelForest
 #'
 #' For BibTeX entry, use:
-#' @code{citation("StateLevelForest")}
+#' `citation("StateLevelForest")`
 #'
 #' @examples
 #' data(StateLevelForest)
